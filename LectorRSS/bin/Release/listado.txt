@@ -1,0 +1,5 @@
+http://www.el-nacional.com/rss/
+http://www.formula1.com/rss/news/features.rss
+http://www.formula1.com/rss/news/latest.rss
+http://www.formula1.com/rss/news/interviews.rss
+http://feeds.bbci.co.uk/news/rss.xml?edition=int

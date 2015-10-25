@@ -1,0 +1,10 @@
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\bin\Release\LectorRSS.exe
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\bin\Release\LectorRSS.pdb
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\ResolveAssemblyReference.cache
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\LectorRSS.Form1.resources
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\LectorRSS.Form2.resources
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\LectorRSS.Properties.Resources.resources
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\ResGen.read.1.tlog
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\ResGen.write.1.tlog
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\LectorRSS.exe
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Release\LectorRSS.pdb

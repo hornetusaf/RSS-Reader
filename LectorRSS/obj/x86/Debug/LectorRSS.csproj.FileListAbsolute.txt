@@ -1,0 +1,31 @@
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\bin\Debug\LectorRSS.exe
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\bin\Debug\LectorRSS.pdb
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Form1.resources
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Properties.Resources.resources
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.exe
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.pdb
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.exe
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.pdb
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\bin\Debug\LectorRSS.exe
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\bin\Debug\LectorRSS.pdb
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Form1.resources
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Properties.Resources.resources
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\ResGen.read.1.tlog
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\ResGen.write.1.tlog
+E:\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Form2.resources
+C:\Users\Noel\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Form2.resources
+C:\Users\Lorena\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.exe
+C:\Users\Lorena\SkyDrive\Comunicaciones 1\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.pdb
+D:\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.exe
+D:\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.pdb
+D:\LectorRSS\LectorRSS\bin\Debug\LectorRSS.exe
+D:\LectorRSS\LectorRSS\bin\Debug\LectorRSS.pdb
+D:\LectorRSS\LectorRSS\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Form1.resources
+D:\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Form2.resources
+D:\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.Properties.Resources.resources
+D:\LectorRSS\LectorRSS\obj\x86\Debug\LectorRSS.csproj.GenerateResource.Cache
